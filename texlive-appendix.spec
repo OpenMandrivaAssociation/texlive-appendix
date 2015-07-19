@@ -6,7 +6,7 @@
 # catalog-version 1.2b
 Name:		texlive-appendix
 Version:	1.2b
-Release:	9
+Release:	10
 Summary:	Extra control of appendices
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/appendix
