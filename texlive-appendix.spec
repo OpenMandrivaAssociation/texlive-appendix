@@ -5,9 +5,9 @@ Summary:	Extra control of appendices
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/appendix
 License:	LPPL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/appendix.r53718.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/appendix.doc.r53718.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/appendix.source.r53718.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/appendix.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/appendix.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/appendix.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
