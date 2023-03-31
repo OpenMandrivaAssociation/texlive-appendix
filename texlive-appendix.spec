@@ -1,6 +1,6 @@
 Name:		texlive-appendix
 Version:	53718
-Release:	1
+Release:	2
 Summary:	Extra control of appendices
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/appendix
