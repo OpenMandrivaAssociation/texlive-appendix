@@ -3,7 +3,7 @@ Version:	53718
 Release:	2
 Summary:	Extra control of appendices
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/appendix
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/appendix
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/appendix.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/appendix.doc.r%{version}.tar.xz
